@@ -11,7 +11,8 @@
 * Requisitos não funcionais
   
 **5. Tecnologias utilizadas**
-<p> html , css , bootsrtap
+<p> html , css , bootsrtap</p>
+
 **6. Cronograma para desenvolvimento**
 conclusão mes 06
 
@@ -23,5 +24,6 @@ conclusão mes 06
 **3. Credenciais para teste**
 
 **4. Informações sobre o colaborador**
+
 yuri5252
 <a>yuriziinho34@gmail.com</a>

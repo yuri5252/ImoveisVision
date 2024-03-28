@@ -2,7 +2,8 @@
 **1. Nome da solução**
 <h1>ImoveisVision&#9733;</h1>
 **2. Logotipo da solução**
-<img src="logo.png">
+<img src="![images](https://github.com/yuri5252/ImoveisVision/assets/161751118/9164d4b7-7586-41d6-967d-46fe25bb02cc)
+">
 </src>
    
 **3. Cenário**

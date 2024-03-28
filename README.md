@@ -2,7 +2,7 @@
 **1. Nome da solução**
 <style> 
    
-<h1>ImoveisVision&#9733; text-leg="center;"</h1>
+<h1>ImoveisVision&#9733;</h1>
    </style>
 **2. Logotipo da solução**
 <img src="tutu.png">
